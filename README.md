@@ -14,8 +14,11 @@
     <!-- Navbar -->
     <nav class="bg-amber-400 text-amber-950 p-4 shadow-xl">
         <div class="container mx-auto flex justify-between items-center">
-            <a class="text-3xl font-['Permanent_Marker',cursive] mx-auto" href="#">
-                Sarjeta dos Quadrinhos</a>
+            <div class="flex-grow text-center">
+                <a class="text-3xl font-['Permanent_Marker',cursive] text-center mt-4" href="#">
+                    Sarjeta dos Quadrinhos
+                </a>
+            </div>
             <div class="space-x-4 font-['Permanent_Marker',cursive] text-xl"> 
                 <a class="hover:underline" href="#">Início</a>
                 <a class="hover:underline" href="#">Sobre</a>
